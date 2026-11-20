@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ashmitha-thulasidasan">
+  <a href="www.linkedin.com/in/ashmitha-thulasidasan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
