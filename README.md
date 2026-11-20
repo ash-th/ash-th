@@ -1,5 +1,26 @@
-# Hi, I'm Ashmitha! 👋
 
-### Computer Engineering Student | Aspiring Software Developer
+<h1 align="center">Hi there, I'm Ashmitha! 👋</h1>
 
-Welcome to my GitHub profile! I'm passionate about technology, software development, and exploring new ideas through hands-on projects.
+<h3 align="center">Computer Engineering Student | Aspiring Software Developer</h3>
+
+<p align="center">
+  🎓 Third-Year Computer Engineering Student
+  <br>
+  🏛️ Pillai College of Engineering
+  <br>
+  💻 Exploring Software Development, Cybersecurity & Emerging Technologies
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/ashmitha-thulasidasan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+I'm passionate about technology and enjoy exploring new concepts, building projects, and continuously improving my technical skills.
+
+I believe in learning by doing and turning ideas into practical solutions.
